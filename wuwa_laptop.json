@@ -1,0 +1,229 @@
+{
+    "switchKey": "Key_Alt",
+    "mouseMoveMap": {
+        "startPos": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "speedRatioX": 3.25,
+        "speedRatioY": 1.25
+    },
+    "keyMapNodes": [
+        {
+            "comment": "摇杆",
+            "type": "KMT_STEER_WHEEL",
+            "centerPos": {
+                "x": 0.155,
+                "y": 0.745
+            },
+            "leftOffset": 0.05,
+            "rightOffset": 0.05,
+            "upOffset": 0.15,
+            "downOffset": 0.15,
+            "leftKey": "Key_A",
+            "rightKey": "Key_D",
+            "upKey": "Key_W",
+            "downKey": "Key_S"
+        },
+        {
+            "comment": "声骸",
+            "type": "KMT_CLICK",
+            "key": "Key_1",
+            "pos": {
+                "x": 0.74,
+                "y": 0.7
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "必杀",
+            "type": "KMT_CLICK",
+            "key": "Key_2",
+            "pos": {
+                "x": 0.69,
+                "y": 0.78
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "技能",
+            "type": "KMT_CLICK",
+            "key": "Key_3",
+            "pos": {
+                "x": 0.74,
+                "y": 0.87
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "普攻",
+            "type": "KMT_CLICK",
+            "key": "Key_4",
+            "pos": {
+                "x": 0.81,
+                "y": 0.78
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "工具",
+            "type": "KMT_CLICK",
+            "key": "Key_5",
+            "pos": {
+                "x": 0.81,
+                "y": 0.62
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "角色1",
+            "type": "KMT_CLICK",
+            "key": "Key_Q",
+            "pos": {
+                "x": 0.9,
+                "y": 0.25
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "角色2",
+            "type": "KMT_CLICK",
+            "key": "Key_E",
+            "pos": {
+                "x": 0.9,
+                "y": 0.38
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "锁定",
+            "type": "KMT_CLICK",
+            "key": "Key_R",
+            "pos": {
+                "x": 0.24,
+                "y": 0.9
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "拾取",
+            "type": "KMT_CLICK",
+            "key": "Key_F",
+            "pos": {
+                "x": 0.8,
+                "y": 0.2
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "跳跃",
+            "type": "KMT_CLICK",
+            "key": "Key_Space",
+            "pos": {
+                "x": 0.88,
+                "y": 0.7
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "闪避",
+            "type": "KMT_CLICK",
+            "key": "Key_Shift",
+            "pos": {
+                "x": 0.88,
+                "y": 0.87
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "地图",
+            "type": "KMT_CLICK",
+            "key": "Key_M",
+            "pos": {
+                "x": 0.11,
+                "y": 0.14
+            },
+            "switchMap": true
+        },
+        {
+            "comment": "编队",
+            "type": "KMT_CLICK",
+            "key": "Key_L",
+            "pos": {
+                "x": 0.17,
+                "y": 0.08
+            },
+            "switchMap": true
+        },
+        {
+            "comment": "背包",
+            "type": "KMT_CLICK",
+            "key": "Key_B",
+            "pos": {
+                "x": 0.21,
+                "y": 0.08
+            },
+            "switchMap": true
+        },
+        {
+            "comment": "角色",
+            "type": "KMT_CLICK",
+            "key": "Key_C",
+            "pos": {
+                "x": 0.875,
+                "y": 0.08
+            },
+            "switchMap": true
+        },
+        {
+            "comment": "活动",
+            "type": "KMT_CLICK",
+            "key": "Key_F1",
+            "pos": {
+                "x": 0.715,
+                "y": 0.08
+            },
+            "switchMap": true
+        },
+        {
+            "comment": "日常",
+            "type": "KMT_CLICK",
+            "key": "Key_F2",
+            "pos": {
+                "x": 0.755,
+                "y": 0.08
+            },
+            "switchMap": true
+        },
+        {
+            "comment": "抽卡",
+            "type": "KMT_CLICK",
+            "key": "Key_F3",
+            "pos": {
+                "x": 0.795,
+                "y": 0.08
+            },
+            "switchMap": true
+        },
+        {
+            "comment": "纪行",
+            "type": "KMT_CLICK",
+            "key": "Key_F4",
+            "pos": {
+                "x": 0.835,
+                "y": 0.08
+            },
+            "switchMap": true
+        },
+        {
+            "comment": "退出",
+            "type": "KMT_CLICK",
+            "key": "Key_Escape",
+            "pos": {
+                "x": 0.92,
+                "y": 0.08
+            },
+            "switchMap": true
+        }
+    ]
+}
